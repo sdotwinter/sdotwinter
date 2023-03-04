@@ -12,7 +12,8 @@
 
 <br/>  
 
-<table><tr>
+<table style="margin: auto;">
+  <tr>
 <td valign="top" width="100%">
 
 
