@@ -1,4 +1,4 @@
-### <div align="center">I'm Sean, a full-time full-stack freelance developer <br><br> 👨‍💻 working remotely since 2015 👾</div>  
+### <div align="center">I'm Sean, a full-time full-stack freelance developer <br><br> 👨‍💻 working remotely since 2015 👾  
   
 
 - 🧠 I’m currently learning Node 
@@ -9,7 +9,7 @@
 
 - ☀️ Fun fact: AI will replace most of us sooner than we think. 
 
-<br/>  
+<br/>  </div>
 
 <div style="margin: auto;">
 <div valign="top" width="100%">
