@@ -1,4 +1,4 @@
-### <div align="center">I'm Sdotwinter, a full-time full-stack freelance developer 👨‍💻 working remotely since 2015 🚀</div>  
+### <div align="center">I'm Sean, a full-time full-stack freelance developer 👨‍💻 working remotely since 2015 🚀</div>  
   
 
 - 🧠 I’m currently learning Node 
