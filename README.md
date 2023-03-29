@@ -1,15 +1,15 @@
-### <div align="center">I'm Sean, a full-time full-stack freelance developer <br><br> 👨‍💻 working remotely since 2015 👾  
+### <div align="center">I'm Sean, a full-time full-stack freelance developer <br><br> 👨‍💻 working remotely since 2015 👾</div>
   
 
-- 🧠 I’m currently learning Node 
+<div align="center">- 🧠 I’m currently learning Node.</div>
   
 
-- ❓ Ask me about ChatGPT based plugins and bots
+<div align="center">- ❓ Ask me about ChatGPT based plugins and bots.</div>
   
 
-- ☀️ Fun fact: AI will replace most of us sooner than we think. 
+<div align="center">- ☀️ Fun fact: AI will replace most of us sooner than we think.</div>
 
-<br/>  </div>
+<br/>
 
 <div style="margin: auto;">
 <div valign="top" width="100%">
