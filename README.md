@@ -1,4 +1,4 @@
-### <div align="center">I'm Sean, a full-time full-stack freelance developer <br><br> 👨‍💻 working remotely since 2015 👾</div>
+### <div align="center">I'm Sean, a full-time full-stack freelance developer <br><br> 👨‍💻 Working remotely since 2015 👾</div>
   
 
 <div align="center">- 🧠 I’m currently learning Node.</div>
