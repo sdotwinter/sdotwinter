@@ -1,14 +1,13 @@
 ### <div align="center">I'm Sdotwinter, a full-time full-stack freelance developer 👨‍💻 working remotely since 2015 🚀</div>  
   
 
-- 🔭 I’m currently learning Node and Kubernetes  
+- 🧠 I’m currently learning Node 
   
 
-- ❓ Ask me about anything related to Django stack and related technologies  
+- ❓ Ask me about ChatGPT based plugins and bots
   
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+- ☀️ Fun fact: I often code from the beach. 
 
 <br/>  
 
