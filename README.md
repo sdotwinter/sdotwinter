@@ -1,4 +1,4 @@
-### <div align="center">I'm Sean, a full-time full-stack freelance developer 👨‍💻 working remotely since 2015 🚀</div>  
+### <div align="center">I'm Sean, a full-time full-stack freelance developer <br><br> 👨‍💻 working remotely since 2015 👾</div>  
   
 
 - 🧠 I’m currently learning Node 
@@ -7,7 +7,7 @@
 - ❓ Ask me about ChatGPT based plugins and bots
   
 
-- ☀️ Fun fact: I often code from the beach. 
+- ☀️ Fun fact: AI will replace most of us sooner than we think. 
 
 <br/>  
 
