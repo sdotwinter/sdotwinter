@@ -1,19 +1,14 @@
+<p align="center">
 # Sean Winter
 
-<div align="center">
-
-**Senior Automation Engineer**  
+<strong>Senior Automation Engineer</strong><br>
 Building AI-powered automation systems with OpenClaw, Python & JavaScript
-
-</div>
 
 ---
 
-<div align="center">
 
 👨‍💻 Working remotely since 2015 | 🤖 AI-first automation since 2023
 
-</div>
 
 ---
 
@@ -27,39 +22,32 @@ Building AI-powered automation systems with OpenClaw, Python & JavaScript
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ### Automation & AI
-<a href="https://github.com/openclaw/openclaw" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="OpenClaw" height="50" /></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+![OpenClaw](https://img.shields.io/badge/OpenClaw-FF6B35?style=for-the-badge&logo=robot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Tools & Platforms
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/supabase-icon.svg" alt="Supabase" height="50" /></a>
-<a href="https://zapier.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/zapier.svg" alt="Zapier" height="50" /></a>
-<a href="https://n8n.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/n8n.svg" alt="n8n" height="50" /></a>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6600?style=for-the-badge&logo=n8n&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### CRM & Operations
-<a href="https://www.salesforce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce-icon.svg" alt="Salesforce" height="50" /></a>
-<a href="https://www.hubspot.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/hubspot.svg" alt="HubSpot" height="50" /></a>
-
-</div>
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 
 ---
 
 ## 🤝 Connect
 
-<div align="center">
-
 [Website](https://seanwinter.pro) | [LinkedIn](https://www.linkedin.com/in/seanewinter/) | [GitHub](https://github.com/sdotwinter/)
 
 📧 seanegjwinter@gmail.com | 📱 +1 628-228-6091
-
-</div>
 
 ---
 
 *Building systems that run themselves.*
 
+</p>
