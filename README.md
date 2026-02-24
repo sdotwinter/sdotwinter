@@ -1,4 +1,3 @@
-<p align="center">
 # Sean Winter
 
 <strong>Senior Automation Engineer</strong><br>
@@ -49,5 +48,3 @@ Building AI-powered automation systems with OpenClaw, Python & JavaScript
 ---
 
 *Building systems that run themselves.*
-
-</p>
